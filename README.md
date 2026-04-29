@@ -170,13 +170,6 @@ All paths, catalog names, and source definitions are centralized in `includes/co
 
 ---
 
-## 👤 Author
-
-**Petra Petronijević**  
-Data Engineering Intern @ Vega IT Global  
-
----
-
 ## 📄 License
 
-This project was developed as part of a Data Engineering internship program.
+A personal data engineering portfolio project.
